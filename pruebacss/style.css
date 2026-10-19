@@ -1,0 +1,52 @@
+#aprendiendo-css-cen{
+    display: flex;
+}
+.aprendiendo-css-cen{
+    width: 100%;
+}
+
+#aprendiendo-css-cen button{
+    padding: 20px;
+    border-radius: 50px;
+}
+
+
+header{
+    background-color: beige;
+    height: 100%;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+
+.logo {
+    font-size: 50px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+
+ul{
+    display: center;
+    list-style:none;
+    gap:20px;
+   
+   
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(179, 152, 152);
+    padding: 10px;
+}
+.btn-inici{
+    background-color: #56785b;
+    color: beige;
+}
+body{
+    font-family:'Inter Tight';
+}
+#mi-primera-practica{
+    padding: 5px;
+    background-color: #70b179;
+}

@@ -1,0 +1,74 @@
+#navegacion{
+    background-color: #f2f2f2;
+    padding: 10px;
+    list-style-type: none;
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #050505;
+}
+#footer{
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+#main{
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #e6e6e6;
+    border-radius: 5px;
+    border-bottom: 1px solid #ccc;
+}
+#section{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #e6e6e6;
+}
+#donald{
+    border-bottom: 1px solid #0c0c0c;
+    color: #333;
+}
+#Informació_general{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Biografia{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Carrera_empresarial{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Carrera_mediàtica{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Carrera_politica{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Primera_Presidència{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Carrera_política{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Després_de_la_Presidència{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Segona_Presidència{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}
+#Perfil_públic{
+    border-bottom: 0.6px solid #0c0c0c;
+    color: #000000;
+}

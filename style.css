@@ -8,6 +8,14 @@
     display: flex;
     gap: 20px;
     border-bottom: 1px solid #050505;
+    scroll-behavior: auto;
+    animation_delay: 0,01ms;
+    animation_duration: 0,01ms;
+    animation_itineration_count: 1;
+    transition_duration: 0ms;
+    unicode-bidi: isolate;
+    diplay: block;
+    list-style-position: inside;    
 }
 #footer{
     background-color: #f2f2f2;
